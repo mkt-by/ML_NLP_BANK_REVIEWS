@@ -67,8 +67,6 @@ with open('style.css', mode='r', encoding='utf') as fl:
 st.markdown(style_css, unsafe_allow_html=True)
 st.markdown(f'<p class="caption-font">ML NLP</p>', unsafe_allow_html=True)
 
-
-
 with st.sidebar:
     selected = option_menu(
         "Меню", 
