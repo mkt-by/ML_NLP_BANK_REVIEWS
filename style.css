@@ -1,0 +1,28 @@
+<style>
+.caption-font {
+        font-size:40px !important;
+        font-weight: bold;
+        border-bottom: 1px solid gray;
+        text-align: center;
+        background-color: azure;
+}
+.title-font {
+    font-size:18px !important;
+}
+.write-font {
+    font-size:14px !important;
+}
+.caption-chapter{
+    font-size:18px !important;
+    font-weight: bold;
+}
+/* изменение стиля основного экрана */
+.st-emotion-cache-1ibsh2c {
+    width: 100%;
+    padding: 2.5rem 1rem 10rem;
+    max-width: initial;
+    min-width: auto;
+    padding-top: 20px;
+}
+
+</style>
